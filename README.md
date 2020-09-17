@@ -1,1 +1,1 @@
-#Learning from Bootcamp 2020 by Panacloud
+#Learning React from Bootcamp 2020 by Panacloud
